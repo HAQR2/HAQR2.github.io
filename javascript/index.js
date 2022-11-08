@@ -1,20 +1,10 @@
 
-console.log(typeof {})
-
-let nombre = "Hector";
-let apellido = "Quintero";
-
-let edad = 34;
-let mascota = "No"
-
-let nombreApellido = nombre + " " + apellido;
-console.log(nombreApellido);
 
 let nombreIngresado = prompt("ingrese su nombre")
 
 alert ("Registro Exitoso!")
 
-let entrada = prompt("ingrese una letra")
+let entrada = prompt("ingrese su edad")
 let salida = entrada + " " + "ingresado";
 
 alert(salida)

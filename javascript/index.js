@@ -1,4 +1,4 @@
-/*  
+
 console.log(typeof {})
 
 let nombre = "Hector";
@@ -18,7 +18,7 @@ let entrada = prompt("ingrese una letra")
 let salida = entrada + " " + "ingresado";
 
 alert(salida)
-console.log(salida) */
+console.log(salida)
 
 
 /* console.log(nombre + " " + apellido)
@@ -80,14 +80,14 @@ if (!articleList) {
     alert("La lista de productos contiene: ") + articleList);
     console.log(articleList)
     } */
-let entrynumber = prompt("ingrese un numero: ");
+/* let entrynumber = prompt("ingrese un numero: ");
 if (entrynumber >10) {
     console.log(" el valor ingresado es mayor a 10")
     document.write("el valor ingresado es mayor a 10")
 } else if (entrynumber <= 10) {
 } else {
 
-}
+} */
     
 
 
